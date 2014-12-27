@@ -12,11 +12,11 @@ Automated Installation
 
 To install this shortcode, use the built-in Barebones CMS extension installer.
 
-Click "Configure Security" from within the content widget options list to set up the new shortcode's security options.
+Once installed, click "Configure Security" from within the content widget options list to set up the new shortcode's security options.
 
 Manual Installation
 -------------------
 
 Upload the 'support' and 'widgets' subdirectories to your Barebones CMS installation.
 
-Click "Configure Security" from within the content widget options list to set up the new shortcode's security options.
+Once installed, click "Configure Security" from within the content widget options list to set up the new shortcode's security options.
