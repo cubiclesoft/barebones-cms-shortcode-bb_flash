@@ -1,0 +1,8 @@
+{
+	"id" : "",
+	"version" : "1.3",
+	"files" : {
+		"support/*" : "support",
+		"widgets/*" : "widgets"
+	}
+}
