@@ -7,6 +7,11 @@ This is a very general-purpose Shortcode and can insert screencasts, advertiseme
 
 Leverages the third-party library SWFObject (ver 2.2).  (http://code.google.com/p/swfobject/)
 
+License
+-------
+
+Same as Barebones CMS.  MIT or LGPL (your choice).
+
 Automated Installation
 ----------------------
 
